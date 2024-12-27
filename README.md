@@ -6,6 +6,11 @@ Ubuntu Cleaner is an open-source tool for cleaning up your Ubuntu system. It hel
 * Open the Terminal using the shortcut Ctrl + Alt + T.
 * Add the repository with the following command:
 ```bash
+sudo add-apt-repository ppa:gerardpuig/ppa
+```
+You may be asked to enter your password to confirm.
+2. Update the Package List
+* Update the list of available packages using:
+```bash
 sudo apt update
-sudo apt -y install r-base gdebi-core
 ```
