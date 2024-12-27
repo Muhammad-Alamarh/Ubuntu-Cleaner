@@ -9,6 +9,7 @@ Ubuntu Cleaner is an open-source tool for cleaning up your Ubuntu system. It hel
 sudo add-apt-repository ppa:gerardpuig/ppa
 ```
 You may be asked to enter your password to confirm.
+
 2. Update the Package List
 * Update the list of available packages using:
 ```bash
