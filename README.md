@@ -15,3 +15,8 @@ You may be asked to enter your password to confirm.
 ```bash
 sudo apt update
 ```
+3. Install Ubuntu Cleaner
+* Install the tool with the command:
+```bash
+sudo apt install ubuntu-cleaner
+```
